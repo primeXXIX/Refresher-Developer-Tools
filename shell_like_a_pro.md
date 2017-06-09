@@ -1,25 +1,25 @@
-#**Shell Commands**
+# **Shell Commands**
 
-###Go to a directory
+### Go to a directory
 $ cd <directory name>
 
-###List visible files in directory
+### List visible files in directory
 $ ls
 
-###Allows to move a folder or directory
+### Allows to move a folder or directory
 $ mv <files>
 
-###Make a directory
+### Make a directory
 $ mkdir <folder name>
 
-###Create a file
+### Create a file
 $ touch <filename>
 
-###Delete directory
+### Delete directory
 $ rmdir <directory name>
 
-###Delete File
+### Delete File
 $ rm <filename>
 
-###Clear CLI
+### Clear CLI
 $ clear
