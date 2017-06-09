@@ -1,7 +1,5 @@
 # Refresher-Developer-Tools
 
-# Refresher: Developer Tools
-
 ## Introduction
 
 This is for challenging yourself to see if you're able to complete the initiation goals solo. Choose this goal to refresh foundational skills or fill in any gaps you may be missing.
