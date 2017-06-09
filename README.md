@@ -1,4 +1,4 @@
-# Refresher-Developer-Tools
+# Refresher: Developer Tools
 
 ## Introduction
 
@@ -45,7 +45,7 @@ You don't have to complete these specs in any particular order.
 
 ### General
 
-- [X] Artifact produced is a [gist](https://gist.github.com/) with a Markdown file containing links and text
+- [ ] Artifact produced is a [gist](https://gist.github.com/) with a Markdown file containing links and text
 
 ### Use the Shell Like a Pro
 
@@ -66,17 +66,7 @@ At the least, you should be able to:
 
 Use the [Shell Resources](#shell) to learn as much as you can about working with the UNIX shell.
 
-- [X] Artifact contains a list of 5-10 of the commands you find most useful.
-```
-- control A.
-- control E.
-- control u.
-- option (click)
-- command control -c or ^C
-- Man command w
-- -ls command
-- "clear" command clears the screen
-```
+- [ ] Artifact contains a list of 5-10 of the commands you find most useful.
 
 ### Level Up your Debugging
 
@@ -93,19 +83,7 @@ At the least, you should be able to:
 
 Starting with the [Debugging Resources](#debugging), learn as much as you can about debugging tools for JavaScript and practice on your own code.
 
-- [X] Artifact includes a list of 3+ debugging tools that you found especially useful
-```
-1.console.time(label) & console.timeEnd(label)
-
-The console.time() and console.timeEnd() methods give you a way of timing how long it takes for a piece of code to execute. Both the time() and timeEnd() methods should be passed the same label parameter.
-
-2.console.dirxml(object)
-
-The console.dirxml() method prints the XML representation of on a object.
-
-3. chrome tool watch
-
-```
+- [ ] Artifact includes a list of 3+ debugging tools that you found especially useful
 
 ### Get Good at Git and GitHub
 
@@ -127,23 +105,23 @@ Pick one of your repositories and create a copy of it to use as a "sandbox" envi
   $ git push origin master
   ```
 
-- [X] Sandbox **GitHub repository** is created and linked to in the artifact
-- [X] Sandbox repo includes a `.gitignore` file with at least a few patterns included
-- [X] Sandbox repo has at least one **pull request**
+- [ ] Sandbox **GitHub repository** is created and linked to in the artifact
+- [ ] Sandbox repo includes a `.gitignore` file with at least a few patterns included
+- [ ] Sandbox repo has at least one **pull request**
 
 Artifact contains the **git commands** you used to...
-- [X] **clone** a remote repository
-- [X] **stage** and unstage files for commit
-- [X] create a **commit** with a **commit message**
-- [X] **amend** the most recent commit message
-- [X] create and delete **branches**
-- [X] **push** to a remote repository
-- [X] **pull** a **feature branch** from a remote repository
-- [X] push a **local branch** to a specific remote branch
-- [X] **revert** files back to a specific commit
-- [X] **rebase** a branch onto master
-- [X] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
-- [X] move specific commits between different branches with the `cherry-pick` command
+- [ ] **clone** a remote repository
+- [ ] **stage** and unstage files for commit
+- [ ] create a **commit** with a **commit message**
+- [ ] **amend** the most recent commit message
+- [ ] create and delete **branches**
+- [ ] **push** to a remote repository
+- [ ] **pull** a **feature branch** from a remote repository
+- [ ] push a **local branch** to a specific remote branch
+- [ ] **revert** files back to a specific commit
+- [ ] **rebase** a branch onto master
+- [ ] interactively rebase using the `--interactive` flag to squash, rename, and reorder commits
+- [ ] move specific commits between different branches with the `cherry-pick` command
 
 ### Type Faster and Better
 
@@ -182,7 +160,7 @@ If you aren't using a code editor that allows for **plugins** or extensions, you
 
 Check out the links in the [Editor Extensions and Plugins](#editor-extensions-and-plugins) section of the [Resources](#resources) to find packages for your editor of choice.
 
-- [X] Artifact contains a list of 3+ features of your editor that you discovered
+- [ ] Artifact contains a list of 3+ features of your editor that you discovered
 - [ ] Artifact contains a list of your favorite editor plugins
 
 ### Setup Homebrew and Install Some Packages
@@ -263,5 +241,4 @@ If you don't have an idea for a package that you'd like to build, you could find
 - [GitHub's unofficial guide to Dotfiles][github-dotfiles] includes lots of examples
 - Guide: [Getting Started With Dotfiles][guide-getting-started-with-dotfiles]
 - Guide: [Managing Your Dotfiles][guide-managing-your-dotfiles]
-
 
